@@ -1,3 +1,4 @@
+```
 Data Dictionary - 2012 Human Activity Recognition Using Smartphones
 
 subject						2
@@ -276,3 +277,4 @@ fBodyBodyGyroJerkMag-mean()	12
 fBodyBodyGyroJerkMag-std()	12
 	Frequency domain body gyrometer jerk signal magnitude standard deviation
 		-1..1 Mean value of original measurement
+```
